@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-title" content="План кредитов"/>
+<meta name="theme-color" content="#003366"/>
+<title>План погашения кредитов</title>
+<style>
+  :root { --navy:#003366; --blue:#0066CC; --bg:#F2F2F7; --card:#fff; --red:#C62828; --text:#1C1C1E; --gray:#8E8E93; }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, sans-serif;
+         background: var(--bg); color: var(--text); line-height:1.45; padding: 0 0 40px; }
+  header { background: var(--navy); color:#fff; padding: 28px 20px 20px; position: sticky; top:0; z-index:10; }
+  header h1 { margin:0; font-size:1.35rem; font-weight:700; }
+  header p { margin:6px 0 0; opacity:.85; font-size:.9rem; }
+  .wrap { padding: 16px; max-width: 640px; margin: 0 auto; }
+  .card { background: var(--card); border-radius: 14px; padding: 16px; margin-bottom: 14px;
+          box-shadow: 0 1px 3px rgba(0,0,0,.06); }
+  .card h2 { margin:0 0 10px; font-size:1.1rem; color: var(--navy); }
+  .card h3 { margin:14px 0 6px; font-size:1rem; color: var(--blue); }
+  .kpi { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
+  .kpi div { background:#E8F1FB; border-radius:12px; padding:12px; }
+  .kpi b { display:block; font-size:1.05rem; color:var(--navy); }
+  .kpi span { font-size:.75rem; color:var(--gray); }
+  table { width:100%; border-collapse:collapse; font-size:.82rem; }
+  th { background:var(--navy); color:#fff; padding:8px 6px; text-align:left; }
+  td { padding:8px 6px; border-bottom:1px solid #eee; }
+  tr:nth-child(even) td { background:#F8FAFC; }
+  .warn { color: var(--red); font-weight:600; }
+  .check { list-style:none; padding:0; margin:0; }
+  .check li { padding:12px 12px 12px 40px; position:relative; border-bottom:1px solid #eee; font-size:.95rem; }
+  .check li:before { content:"☐"; position:absolute; left:12px; font-size:1.1rem; }
+  .prio { display:flex; align-items:center; gap:10px; padding:10px 0; border-bottom:1px solid #eee; }
+  .badge { background:var(--navy); color:#fff; min-width:28px; height:28px; border-radius:50%;
+           display:flex; align-items:center; justify-content:center; font-weight:700; font-size:.85rem; }
+  .badge.hot { background:var(--red); }
+  footer { text-align:center; color:var(--gray); font-size:.75rem; padding:20px; }
+  .nav { display:flex; gap:8px; overflow-x:auto; padding: 0 16px 8px; -webkit-overflow-scrolling:touch; }
+  .nav a { flex:0 0 auto; background:#fff; color:var(--navy); text-decoration:none; font-size:.8rem;
+           padding:8px 12px; border-radius:20px; border:1px solid #ddd; }
+</style>
+</head>
+<body>
+<header>
+  <h1>План погашения кредитов</h1>
+  <p>Сбер + Т-Банк · для iPhone · 15.07.2026</p>
+</header>
+<div class="nav">
+  <a href="#summary">Сводка</a>
+  <a href="#budget">Бюджет</a>
+  <a href="#priority">Приоритет</a>
+  <a href="#calendar">Календарь</a>
+  <a href="#forecast">Прогноз</a>
+  <a href="#refi">Рефинанс</a>
+  <a href="#steps">Шаги</a>
+</div>
+<div class="wrap">
+
+<section class="card" id="summary">
+  <h2>На одном экране</h2>
+  <div class="kpi">
+    <div><span>Общий долг</span><b>≈ 1 982 000 ₽</b></div>
+    <div><span>Проценты / мес</span><b>≈ 37 000 ₽</b></div>
+    <div><span>Доход</span><b>190 000 ₽</b></div>
+    <div><span>Срок выхода</span><b>~24 месяца</b></div>
+    <div><span>Жизнь (цель)</span><b>45–50 тыс.</b></div>
+    <div><span>На кредиты</span><b>101–106 тыс.</b></div>
+  </div>
+  <p class="warn" style="margin-top:12px">⚠ ~20% дохода уходит только на проценты</p>
+</section>
+
+<section class="card" id="debts">
+  <h2>1. Все долги</h2>
+  <div style="overflow-x:auto">
+  <table>
+    <tr><th>Кредит</th><th>Остаток</th><th>Ставка</th><th>Платёж</th></tr>
+    <tr><td>Т-Банк карта</td><td>495 414</td><td><b>28%</b></td><td>30 000 · 31</td></tr>
+    <tr><td>Сбер карта</td><td>423 715</td><td><b>~28%</b></td><td>уточнить · 31</td></tr>
+    <tr><td>Т-Банк кредит</td><td>483 840</td><td>19,9%</td><td>17 710 · 10</td></tr>
+    <tr><td>Сбер А</td><td>343 740</td><td>15,65%</td><td>15 683 · 17</td></tr>
+    <tr><td>Сбер В</td><td>147 204</td><td>15,25%</td><td>9 214 · 17</td></tr>
+    <tr><td>Сбер Б</td><td>87 839</td><td>12,45%</td><td>15 228 · 17</td></tr>
+  </table>
+  </div>
+</section>
+
+<section class="card" id="budget">
+  <h2>2. Бюджет</h2>
+  <p>190 000 − 39 000 квартира − минимумы кредитов → на жизнь остаётся <b>38–63 тыс.</b></p>
+  <p><b>Рекомендация:</b> жизнь 45–50к, на долги 101–106к. При жизни 60к+ — риск не покрыть минимумы.</p>
+</section>
+
+<section class="card" id="priority">
+  <h2>3. Куда бить досрочкой</h2>
+  <div class="prio"><div class="badge hot">1</div><div><b>Т-Банк карта 28%</b><br/><span style="color:#8E8E93;font-size:.85rem">Самая дорогая</span></div></div>
+  <div class="prio"><div class="badge hot">2</div><div><b>Сбер карта ~28%</b></div></div>
+  <div class="prio"><div class="badge">3</div><div><b>Т-Банк кредит 19,9%</b></div></div>
+  <div class="prio"><div class="badge">4</div><div>Сбер А 15,65%</div></div>
+  <div class="prio"><div class="badge">5</div><div>Сбер В 15,25%</div></div>
+  <div class="prio"><div class="badge">6</div><div>Сбер Б 12,45% (закроется сам ~6 мес)</div></div>
+  <p class="warn">Не гасите досрочно Сбер Б и В, пока живы карты</p>
+</section>
+
+<section class="card" id="calendar">
+  <h2>4. Календарь месяца</h2>
+  <table>
+    <tr><th>День</th><th>Платёж</th><th>Сумма</th></tr>
+    <tr><td><b>до 10</b></td><td>Т-Банк кредит</td><td>17 710</td></tr>
+    <tr><td><b>до 17</b></td><td>Сбер А+Б+В</td><td>40 125</td></tr>
+    <tr><td><b>до 31</b></td><td>Т-Банк карта + досрочка</td><td>30к + всё</td></tr>
+    <tr><td><b>до 31</b></td><td>Сбер карта</td><td>минимум</td></tr>
+    <tr><td><b>до 31</b></td><td>Квартира</td><td>39 000</td></tr>
+  </table>
+  <p style="margin-top:10px;font-size:.9rem">Импортируйте файл <b>Plan_platezhey_iOS.ics</b> в Календарь iPhone — напоминания уже внутри.</p>
+</section>
+
+<section class="card" id="forecast">
+  <h2>5. Прогноз</h2>
+  <table>
+    <tr><th>Срок</th><th>Остаток</th><th>Событие</th></tr>
+    <tr><td>Сейчас</td><td>1 982к</td><td>Старт</td></tr>
+    <tr><td>6 мес</td><td>~1 550к</td><td>Сбер Б закрыт</td></tr>
+    <tr><td>12 мес</td><td>~1 060к</td><td>Карты просели</td></tr>
+    <tr><td>18 мес</td><td>~520к</td><td>Почти финиш</td></tr>
+    <tr><td>~24 мес</td><td>0</td><td>Долги закрыты</td></tr>
+  </table>
+  <p>Переплата %% ≈ 450–500 тыс. ₽</p>
+</section>
+
+<section class="card" id="refi">
+  <h2>6. Рефинанс карт</h2>
+  <p>Чтобы остановить %: Т-Банк 484к + Сбер 418к = <b>≈ 902 000 ₽</b></p>
+  <p>Рефинанс @ ≤20–22% на 48 мес → платёж ~28к (вместо мин. ~55к по картам). Имеет смысл при ставке <b>≤ 22–24%</b>.</p>
+</section>
+
+<section class="card">
+  <h2>7. Не делать</h2>
+  <p class="warn">✗ Тратить с кредитных карт</p>
+  <p class="warn">✗ Досрочно гасить дешёвые Сбер Б/В/А раньше карт</p>
+  <p class="warn">✗ Сидеть на минимумах по картам годами</p>
+  <p class="warn">✗ Брать новый кредит «на жизнь»</p>
+  <p class="warn">✗ Пропускать даты платежей</p>
+</section>
+
+<section class="card" id="strategy">
+  <h2>8. Стратегии</h2>
+  <h3>A — без рефинанса</h3>
+  <p>Жизнь 45–50к, досрочка на Т-Банк карту. Цель ~2 года.</p>
+  <h3>B — с рефинансом ★</h3>
+  <p>Карты в кредит @ ≤22%, жизнь ~60к. Цель 2–2,5 года.</p>
+  <h3>C — гибрид</h3>
+  <p>Рефинанс одной самой дорогой карты (Т-Банк).</p>
+</section>
+
+<section class="card" id="steps">
+  <h2>9. Шаги на этой неделе</h2>
+  <ul class="check">
+    <li>Уточнить ставку и мин. платёж Сбер-карты</li>
+    <li>Заморозить кредитные карты</li>
+    <li>Подать заявки на рефинанс</li>
+    <li>События в Календаре: 10 / 17 / 31</li>
+    <li>Автоплатежи по минимумам</li>
+    <li>Бюджет жизни 45–50к</li>
+    <li>Остаток июля → Т-Банк карта</li>
+  </ul>
+</section>
+
+<section class="card">
+  <h2>На iPhone</h2>
+  <p>1. PDF → «Файлы» или «Книги»</p>
+  <p>2. ICS → «Календарь» (нажать файл → Добавить все)</p>
+  <p>3. Эту страницу: Поделиться → На экран «Домой»</p>
+</section>
+
+</div>
+<footer>Информационный расчёт, не рекомендация банка</footer>
+</body>
+</html>

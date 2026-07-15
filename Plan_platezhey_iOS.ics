@@ -1,0 +1,1414 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plan Pogasheniya//iOS//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:План погашения кредитов
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+UID:3e9207d9-d0dd-4d7c-b938-8dc86f96328d
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:Сбер кредиты А+Б+В — 40 125 ₽
+DESCRIPTION:Сбер А 15 683 + Сбер Б 15 228 + Сбер В 9 214. Итого 40 125 ₽. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b6542e51-591b-4748-8ab7-66b154db355e
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Кредитные карты + квартира
+DESCRIPTION:Т-Банк карта мин 30 000 + досрочка; Сбер карта (минимум); квартира 39 000. Всю досрочку — на Т-Банк карту. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Кредитные карты + квартира
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Кредитные карты + квартира
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c3d70374-a116-4ff8-b806-eb533ecd90af
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:Т-Банк кредит — 17 710 ₽
+DESCRIPTION:Обязательный платёж по кредиту Т-Банк. Не пропускать! Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Т-Банк кредит — 17 710 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Т-Банк кредит — 17 710 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e0d0ab70-0527-4bf4-afe5-38f73de479a5
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:Сбер кредиты А+Б+В — 40 125 ₽
+DESCRIPTION:Сбер А 15 683 + Сбер Б 15 228 + Сбер В 9 214. Итого 40 125 ₽. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:664f7d6b-a0e6-48db-b2d5-a28b3b4717dd
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Кредитные карты + квартира
+DESCRIPTION:Т-Банк карта мин 30 000 + досрочка; Сбер карта (минимум); квартира 39 000. Всю досрочку — на Т-Банк карту. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Кредитные карты + квартира
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Кредитные карты + квартира
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:01a8232f-5df4-472c-9a14-50dc184da18b
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Т-Банк кредит — 17 710 ₽
+DESCRIPTION:Обязательный платёж по кредиту Т-Банк. Не пропускать! Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Т-Банк кредит — 17 710 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Т-Банк кредит — 17 710 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4bcf361d-e68d-45ac-a74c-3a194714bab1
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Сбер кредиты А+Б+В — 40 125 ₽
+DESCRIPTION:Сбер А 15 683 + Сбер Б 15 228 + Сбер В 9 214. Итого 40 125 ₽. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e68fa676-5929-4fd2-80ad-ca31af0069ef
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Кредитные карты + квартира
+DESCRIPTION:Т-Банк карта мин 30 000 + досрочка; Сбер карта (минимум); квартира 39 000. Всю досрочку — на Т-Банк карту. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Кредитные карты + квартира
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Кредитные карты + квартира
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c3dc4a63-bd88-4285-86f5-ae6d470f4701
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Т-Банк кредит — 17 710 ₽
+DESCRIPTION:Обязательный платёж по кредиту Т-Банк. Не пропускать! Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Т-Банк кредит — 17 710 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Т-Банк кредит — 17 710 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:97834df2-385f-4920-bdb4-0ea6f0f0b7a8
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Сбер кредиты А+Б+В — 40 125 ₽
+DESCRIPTION:Сбер А 15 683 + Сбер Б 15 228 + Сбер В 9 214. Итого 40 125 ₽. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:02eba6d7-7312-4bf4-9c02-c7247bebc8ea
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Кредитные карты + квартира
+DESCRIPTION:Т-Банк карта мин 30 000 + досрочка; Сбер карта (минимум); квартира 39 000. Всю досрочку — на Т-Банк карту. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Кредитные карты + квартира
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Кредитные карты + квартира
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:42fe6c39-8f20-4dd7-a286-5fde54f0b092
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Т-Банк кредит — 17 710 ₽
+DESCRIPTION:Обязательный платёж по кредиту Т-Банк. Не пропускать! Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Т-Банк кредит — 17 710 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Т-Банк кредит — 17 710 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:60a4d49c-e844-4e6a-8fb3-e5f029393d05
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Сбер кредиты А+Б+В — 40 125 ₽
+DESCRIPTION:Сбер А 15 683 + Сбер Б 15 228 + Сбер В 9 214. Итого 40 125 ₽. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:69acae1e-8d3b-4c0a-8133-8cfb8de763af
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Кредитные карты + квартира
+DESCRIPTION:Т-Банк карта мин 30 000 + досрочка; Сбер карта (минимум); квартира 39 000. Всю досрочку — на Т-Банк карту. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Кредитные карты + квартира
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Кредитные карты + квартира
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3601a6c8-2725-4170-947f-b9763cfdff2a
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Т-Банк кредит — 17 710 ₽
+DESCRIPTION:Обязательный платёж по кредиту Т-Банк. Не пропускать! Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Т-Банк кредит — 17 710 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Т-Банк кредит — 17 710 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4acd2068-3786-4bad-9b6c-17b2d9cabc69
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Сбер кредиты А+Б+В — 40 125 ₽
+DESCRIPTION:Сбер А 15 683 + Сбер Б 15 228 + Сбер В 9 214. Итого 40 125 ₽. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:00bcbc66-340d-4f6b-88a7-fc242f9b13e5
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Кредитные карты + квартира
+DESCRIPTION:Т-Банк карта мин 30 000 + досрочка; Сбер карта (минимум); квартира 39 000. Всю досрочку — на Т-Банк карту. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Кредитные карты + квартира
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Кредитные карты + квартира
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:afd8cbfe-bee0-495c-b294-e98dccb7bded
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Т-Банк кредит — 17 710 ₽
+DESCRIPTION:Обязательный платёж по кредиту Т-Банк. Не пропускать! Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Т-Банк кредит — 17 710 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Т-Банк кредит — 17 710 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8c84640d-59fa-44bc-849f-88822c31eb1c
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Сбер кредиты А+Б+В — 40 125 ₽
+DESCRIPTION:Сбер А 15 683 + Сбер Б 15 228 + Сбер В 9 214. Итого 40 125 ₽. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e940e152-e7ca-48ef-b11e-a434c76f662f
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Кредитные карты + квартира
+DESCRIPTION:Т-Банк карта мин 30 000 + досрочка; Сбер карта (минимум); квартира 39 000. Всю досрочку — на Т-Банк карту. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Кредитные карты + квартира
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Кредитные карты + квартира
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f29861a5-02c4-4dfe-8995-8efa920e4fad
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Т-Банк кредит — 17 710 ₽
+DESCRIPTION:Обязательный платёж по кредиту Т-Банк. Не пропускать! Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Т-Банк кредит — 17 710 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Т-Банк кредит — 17 710 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7bd10f8c-1e54-4db9-91ac-93fac0b7ace2
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:Сбер кредиты А+Б+В — 40 125 ₽
+DESCRIPTION:Сбер А 15 683 + Сбер Б 15 228 + Сбер В 9 214. Итого 40 125 ₽. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0de99804-0a96-4c45-b8b5-c30c8c0d805b
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:Кредитные карты + квартира
+DESCRIPTION:Т-Банк карта мин 30 000 + досрочка; Сбер карта (минимум); квартира 39 000. Всю досрочку — на Т-Банк карту. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Кредитные карты + квартира
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Кредитные карты + квартира
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:75bf02eb-28c0-4a60-a0a8-1d6063271d21
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:Т-Банк кредит — 17 710 ₽
+DESCRIPTION:Обязательный платёж по кредиту Т-Банк. Не пропускать! Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Т-Банк кредит — 17 710 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Т-Банк кредит — 17 710 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bd05412a-f67e-4fe3-9892-9ed77e5e0ec2
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:Сбер кредиты А+Б+В — 40 125 ₽
+DESCRIPTION:Сбер А 15 683 + Сбер Б 15 228 + Сбер В 9 214. Итого 40 125 ₽. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7a152fe2-df3c-40fc-aff8-2ac6cd3e8bd3
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Кредитные карты + квартира
+DESCRIPTION:Т-Банк карта мин 30 000 + досрочка; Сбер карта (минимум); квартира 39 000. Всю досрочку — на Т-Банк карту. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Кредитные карты + квартира
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Кредитные карты + квартира
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:98343db2-69fd-4c10-ae5b-cc4fe37fdb2a
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:Т-Банк кредит — 17 710 ₽
+DESCRIPTION:Обязательный платёж по кредиту Т-Банк. Не пропускать! Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Т-Банк кредит — 17 710 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Т-Банк кредит — 17 710 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:df07ee0d-5093-48e4-ac22-364dbb13a4d8
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Сбер кредиты А+Б+В — 40 125 ₽
+DESCRIPTION:Сбер А 15 683 + Сбер Б 15 228 + Сбер В 9 214. Итого 40 125 ₽. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:07fba939-397e-4ab2-84ae-651e9bc0095c
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Кредитные карты + квартира
+DESCRIPTION:Т-Банк карта мин 30 000 + досрочка; Сбер карта (минимум); квартира 39 000. Всю досрочку — на Т-Банк карту. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Кредитные карты + квартира
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Кредитные карты + квартира
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:70430ddc-5183-4ef6-b9c3-2177511f2913
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+SUMMARY:Т-Банк кредит — 17 710 ₽
+DESCRIPTION:Обязательный платёж по кредиту Т-Банк. Не пропускать! Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Т-Банк кредит — 17 710 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Т-Банк кредит — 17 710 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9d8f3c1f-4d58-43b6-877f-61bb6574a986
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Сбер кредиты А+Б+В — 40 125 ₽
+DESCRIPTION:Сбер А 15 683 + Сбер Б 15 228 + Сбер В 9 214. Итого 40 125 ₽. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:84c613d3-0952-4d68-b78e-1f93a3023a55
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:Кредитные карты + квартира
+DESCRIPTION:Т-Банк карта мин 30 000 + досрочка; Сбер карта (минимум); квартира 39 000. Всю досрочку — на Т-Банк карту. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Кредитные карты + квартира
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Кредитные карты + квартира
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6f53ab1a-2b65-4f52-b81a-b14e7757c212
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:Т-Банк кредит — 17 710 ₽
+DESCRIPTION:Обязательный платёж по кредиту Т-Банк. Не пропускать! Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Т-Банк кредит — 17 710 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Т-Банк кредит — 17 710 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c76342c5-114f-4c6c-9d76-f75a39696d6b
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
+SUMMARY:Сбер кредиты А+Б+В — 40 125 ₽
+DESCRIPTION:Сбер А 15 683 + Сбер Б 15 228 + Сбер В 9 214. Итого 40 125 ₽. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3264ca87-944b-42bb-9460-2b0e651b975f
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Кредитные карты + квартира
+DESCRIPTION:Т-Банк карта мин 30 000 + досрочка; Сбер карта (минимум); квартира 39 000. Всю досрочку — на Т-Банк карту. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Кредитные карты + квартира
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Кредитные карты + квартира
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4387f7ac-055f-4c22-9f05-55e0e660257e
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:Т-Банк кредит — 17 710 ₽
+DESCRIPTION:Обязательный платёж по кредиту Т-Банк. Не пропускать! Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Т-Банк кредит — 17 710 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Т-Банк кредит — 17 710 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6690efa2-1887-4283-87b0-0d72877a80e9
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:Сбер кредиты А+Б+В — 40 125 ₽
+DESCRIPTION:Сбер А 15 683 + Сбер Б 15 228 + Сбер В 9 214. Итого 40 125 ₽. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ece00d74-8a20-4d52-9489-e20335a9e17c
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:Кредитные карты + квартира
+DESCRIPTION:Т-Банк карта мин 30 000 + досрочка; Сбер карта (минимум); квартира 39 000. Всю досрочку — на Т-Банк карту. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Кредитные карты + квартира
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Кредитные карты + квартира
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1ce187f4-2b5c-408e-9520-0b470cb0fb4e
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Т-Банк кредит — 17 710 ₽
+DESCRIPTION:Обязательный платёж по кредиту Т-Банк. Не пропускать! Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Т-Банк кредит — 17 710 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Т-Банк кредит — 17 710 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:749e1578-b201-4e71-8696-474885bb7b37
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:Сбер кредиты А+Б+В — 40 125 ₽
+DESCRIPTION:Сбер А 15 683 + Сбер Б 15 228 + Сбер В 9 214. Итого 40 125 ₽. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:793e7d6a-8bec-42e0-b55b-2b1315bd396b
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:Кредитные карты + квартира
+DESCRIPTION:Т-Банк карта мин 30 000 + досрочка; Сбер карта (минимум); квартира 39 000. Всю досрочку — на Т-Банк карту. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Кредитные карты + квартира
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Кредитные карты + квартира
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dfecfb73-7617-4bd5-81e2-95fecce6c461
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:Т-Банк кредит — 17 710 ₽
+DESCRIPTION:Обязательный платёж по кредиту Т-Банк. Не пропускать! Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Т-Банк кредит — 17 710 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Т-Банк кредит — 17 710 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:23f12fc0-0b3e-4341-bef7-4f6f26307d1e
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:Сбер кредиты А+Б+В — 40 125 ₽
+DESCRIPTION:Сбер А 15 683 + Сбер Б 15 228 + Сбер В 9 214. Итого 40 125 ₽. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:347701ea-720e-4ef7-95db-92c3dd3a08ea
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:Кредитные карты + квартира
+DESCRIPTION:Т-Банк карта мин 30 000 + досрочка; Сбер карта (минимум); квартира 39 000. Всю досрочку — на Т-Банк карту. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Кредитные карты + квартира
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Кредитные карты + квартира
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b07ea566-4599-4c4d-b2c7-201eb0daebda
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+SUMMARY:Т-Банк кредит — 17 710 ₽
+DESCRIPTION:Обязательный платёж по кредиту Т-Банк. Не пропускать! Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Т-Банк кредит — 17 710 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Т-Банк кредит — 17 710 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bce03add-885b-4385-8b37-0226b22e9cbb
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:Сбер кредиты А+Б+В — 40 125 ₽
+DESCRIPTION:Сбер А 15 683 + Сбер Б 15 228 + Сбер В 9 214. Итого 40 125 ₽. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1f5c1938-6c87-4dee-8101-be17932cf0bb
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:Кредитные карты + квартира
+DESCRIPTION:Т-Банк карта мин 30 000 + досрочка; Сбер карта (минимум); квартира 39 000. Всю досрочку — на Т-Банк карту. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Кредитные карты + квартира
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Кредитные карты + квартира
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ae143846-c958-4991-b8a0-f0ea91cacd06
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271111
+SUMMARY:Т-Банк кредит — 17 710 ₽
+DESCRIPTION:Обязательный платёж по кредиту Т-Банк. Не пропускать! Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Т-Банк кредит — 17 710 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Т-Банк кредит — 17 710 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:345adc3b-34de-4c0b-b428-03d756dd50a7
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20271117
+DTEND;VALUE=DATE:20271118
+SUMMARY:Сбер кредиты А+Б+В — 40 125 ₽
+DESCRIPTION:Сбер А 15 683 + Сбер Б 15 228 + Сбер В 9 214. Итого 40 125 ₽. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8d2bd1b8-0424-40d8-b569-f98ee82428d7
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20271130
+DTEND;VALUE=DATE:20271201
+SUMMARY:Кредитные карты + квартира
+DESCRIPTION:Т-Банк карта мин 30 000 + досрочка; Сбер карта (минимум); квартира 39 000. Всю досрочку — на Т-Банк карту. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Кредитные карты + квартира
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Кредитные карты + квартира
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fa2ddf5b-080c-4d3b-9b6c-3d9d16a93de6
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20271210
+DTEND;VALUE=DATE:20271211
+SUMMARY:Т-Банк кредит — 17 710 ₽
+DESCRIPTION:Обязательный платёж по кредиту Т-Банк. Не пропускать! Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Т-Банк кредит — 17 710 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Т-Банк кредит — 17 710 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:71dea134-b5c4-4bfe-afc4-517f7f3db411
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20271217
+DTEND;VALUE=DATE:20271218
+SUMMARY:Сбер кредиты А+Б+В — 40 125 ₽
+DESCRIPTION:Сбер А 15 683 + Сбер Б 15 228 + Сбер В 9 214. Итого 40 125 ₽. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fde13e53-a5c6-458b-a8c4-473473edbdfc
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:Кредитные карты + квартира
+DESCRIPTION:Т-Банк карта мин 30 000 + досрочка; Сбер карта (минимум); квартира 39 000. Всю досрочку — на Т-Банк карту. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Кредитные карты + квартира
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Кредитные карты + квартира
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1539f684-9b15-4d61-be4f-371376cf6682
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20280110
+DTEND;VALUE=DATE:20280111
+SUMMARY:Т-Банк кредит — 17 710 ₽
+DESCRIPTION:Обязательный платёж по кредиту Т-Банк. Не пропускать! Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Т-Банк кредит — 17 710 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Т-Банк кредит — 17 710 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:06757ec5-8609-4fe6-bd1f-3dd7063faa35
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20280117
+DTEND;VALUE=DATE:20280118
+SUMMARY:Сбер кредиты А+Б+В — 40 125 ₽
+DESCRIPTION:Сбер А 15 683 + Сбер Б 15 228 + Сбер В 9 214. Итого 40 125 ₽. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:46180bb5-ce1b-4796-bc23-376d4ca43a61
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:Кредитные карты + квартира
+DESCRIPTION:Т-Банк карта мин 30 000 + досрочка; Сбер карта (минимум); квартира 39 000. Всю досрочку — на Т-Банк карту. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Кредитные карты + квартира
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Кредитные карты + квартира
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:258d41df-3e7c-4639-b58c-5a368119815e
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20280210
+DTEND;VALUE=DATE:20280211
+SUMMARY:Т-Банк кредит — 17 710 ₽
+DESCRIPTION:Обязательный платёж по кредиту Т-Банк. Не пропускать! Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Т-Банк кредит — 17 710 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Т-Банк кредит — 17 710 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c03b9071-4272-40cf-ab7c-7c642724850f
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20280217
+DTEND;VALUE=DATE:20280218
+SUMMARY:Сбер кредиты А+Б+В — 40 125 ₽
+DESCRIPTION:Сбер А 15 683 + Сбер Б 15 228 + Сбер В 9 214. Итого 40 125 ₽. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aa93ee51-ab94-410a-9a3b-008642c3e4a1
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20280229
+DTEND;VALUE=DATE:20280301
+SUMMARY:Кредитные карты + квартира
+DESCRIPTION:Т-Банк карта мин 30 000 + досрочка; Сбер карта (минимум); квартира 39 000. Всю досрочку — на Т-Банк карту. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Кредитные карты + квартира
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Кредитные карты + квартира
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:56a373ff-c374-43a5-9137-193ad489063f
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20280310
+DTEND;VALUE=DATE:20280311
+SUMMARY:Т-Банк кредит — 17 710 ₽
+DESCRIPTION:Обязательный платёж по кредиту Т-Банк. Не пропускать! Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Т-Банк кредит — 17 710 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Т-Банк кредит — 17 710 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8504c6b7-6686-4d54-8175-ee8a56729c24
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20280317
+DTEND;VALUE=DATE:20280318
+SUMMARY:Сбер кредиты А+Б+В — 40 125 ₽
+DESCRIPTION:Сбер А 15 683 + Сбер Б 15 228 + Сбер В 9 214. Итого 40 125 ₽. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5661d326-5456-4a30-bf1a-8bb69cfc5c59
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20280331
+DTEND;VALUE=DATE:20280401
+SUMMARY:Кредитные карты + квартира
+DESCRIPTION:Т-Банк карта мин 30 000 + досрочка; Сбер карта (минимум); квартира 39 000. Всю досрочку — на Т-Банк карту. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Кредитные карты + квартира
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Кредитные карты + квартира
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d4315455-e99a-4e04-aefe-93e84f9828cd
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20280410
+DTEND;VALUE=DATE:20280411
+SUMMARY:Т-Банк кредит — 17 710 ₽
+DESCRIPTION:Обязательный платёж по кредиту Т-Банк. Не пропускать! Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Т-Банк кредит — 17 710 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Т-Банк кредит — 17 710 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:776dc501-c25c-4879-8142-4161b0f3fda6
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Сбер кредиты А+Б+В — 40 125 ₽
+DESCRIPTION:Сбер А 15 683 + Сбер Б 15 228 + Сбер В 9 214. Итого 40 125 ₽. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6f873317-9e04-4305-aba0-3c12058a1f4a
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20280430
+DTEND;VALUE=DATE:20280501
+SUMMARY:Кредитные карты + квартира
+DESCRIPTION:Т-Банк карта мин 30 000 + досрочка; Сбер карта (минимум); квартира 39 000. Всю досрочку — на Т-Банк карту. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Кредитные карты + квартира
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Кредитные карты + квартира
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:15bb52d2-d4d2-42d6-a260-2e4e37a338f5
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20280510
+DTEND;VALUE=DATE:20280511
+SUMMARY:Т-Банк кредит — 17 710 ₽
+DESCRIPTION:Обязательный платёж по кредиту Т-Банк. Не пропускать! Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Т-Банк кредит — 17 710 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Т-Банк кредит — 17 710 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9c5c45ef-e167-4c51-941d-f029a1bcb255
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20280517
+DTEND;VALUE=DATE:20280518
+SUMMARY:Сбер кредиты А+Б+В — 40 125 ₽
+DESCRIPTION:Сбер А 15 683 + Сбер Б 15 228 + Сбер В 9 214. Итого 40 125 ₽. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:99d9a2fa-3318-4045-b37f-3fbe52f0c7f1
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20280531
+DTEND;VALUE=DATE:20280601
+SUMMARY:Кредитные карты + квартира
+DESCRIPTION:Т-Банк карта мин 30 000 + досрочка; Сбер карта (минимум); квартира 39 000. Всю досрочку — на Т-Банк карту. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Кредитные карты + квартира
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Кредитные карты + квартира
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:06cce6f5-7bf0-4ee4-942b-348fad87434a
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20280610
+DTEND;VALUE=DATE:20280611
+SUMMARY:Т-Банк кредит — 17 710 ₽
+DESCRIPTION:Обязательный платёж по кредиту Т-Банк. Не пропускать! Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Т-Банк кредит — 17 710 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Т-Банк кредит — 17 710 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:47d12513-4dd4-4f35-8ae0-e5429c019b46
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20280617
+DTEND;VALUE=DATE:20280618
+SUMMARY:Сбер кредиты А+Б+В — 40 125 ₽
+DESCRIPTION:Сбер А 15 683 + Сбер Б 15 228 + Сбер В 9 214. Итого 40 125 ₽. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aa5002b6-de64-41cf-ae8c-17904485fde3
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20280630
+DTEND;VALUE=DATE:20280701
+SUMMARY:Кредитные карты + квартира
+DESCRIPTION:Т-Банк карта мин 30 000 + досрочка; Сбер карта (минимум); квартира 39 000. Всю досрочку — на Т-Банк карту. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Кредитные карты + квартира
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Кредитные карты + квартира
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4281f48d-45c2-4f6c-a66c-1303217f6b7c
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20280710
+DTEND;VALUE=DATE:20280711
+SUMMARY:Т-Банк кредит — 17 710 ₽
+DESCRIPTION:Обязательный платёж по кредиту Т-Банк. Не пропускать! Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Т-Банк кредит — 17 710 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Т-Банк кредит — 17 710 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ba31bc3c-87b0-4108-b98e-21425772478a
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20280717
+DTEND;VALUE=DATE:20280718
+SUMMARY:Сбер кредиты А+Б+В — 40 125 ₽
+DESCRIPTION:Сбер А 15 683 + Сбер Б 15 228 + Сбер В 9 214. Итого 40 125 ₽. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Сбер кредиты А+Б+В — 40 125 ₽
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f451aeaf-1677-4844-9034-3cfeb83f48db
+DTSTAMP:20260715T142449Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:Кредитные карты + квартира
+DESCRIPTION:Т-Банк карта мин 30 000 + досрочка; Сбер карта (минимум); квартира 39 000. Всю досрочку — на Т-Банк карту. Порядок досрочки: Т-Банк карта → Сбер карта → Т-кредит → Сбер А.
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра: Кредитные карты + квартира
+END:VALARM
+BEGIN:VALARM
+TRIGGER:PT9H
+ACTION:DISPLAY
+DESCRIPTION:Сегодня: Кредитные карты + квартира
+END:VALARM
+END:VEVENT
+END:VCALENDAR
